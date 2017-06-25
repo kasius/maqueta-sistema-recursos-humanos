@@ -14,3 +14,5 @@ Plataforma desarrollada en Angular 2
 - ALERTAS DE MENSAJES
 
 
+Contacto: 999415041 kcifuentes89@gmail.com
+
